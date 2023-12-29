@@ -1,9 +1,9 @@
 # Kelompok 1
 Bustan Nabiel Maulana : 101022300013
 
-Farelisa Gumaya : 101022300053
-
 Fahri Fahrezi : 101022300042
+
+Farelisa Gumaya : 101022300053
 
 Muhammad Raka Sugianto : 101022330047
 
