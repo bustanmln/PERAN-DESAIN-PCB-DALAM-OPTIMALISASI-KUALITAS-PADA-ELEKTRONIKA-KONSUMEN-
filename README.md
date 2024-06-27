@@ -1,4 +1,4 @@
-# Kelompok 1
+# KELOMPOK 1
 Bustan Nabiel Maulana : 101022300013
 
 Fahri Fahrezi : 101022300042
